@@ -3,8 +3,11 @@ The official repository of Towards Real-time High-Definition Image Snow Removal:
 
 ## Code
 The code will release soon.
-
-
+## TODO List
+- [ ] Model.py
+- [ ] Test.py
+- [ ] Train.Py
+- [ ] Pre-train Model
 
 ## Our Related Works
 * ECCV'22 Oral: Perceiving and Modeling Density for Image Dehazing. [Arxiv PDF](https://arxiv.org/abs/2111.09733)
