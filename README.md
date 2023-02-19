@@ -11,4 +11,4 @@ The code will release soon.
 
 ## Our Related Works
 * ECCV'22 Oral: Perceiving and Modeling Density for Image Dehazing. [Arxiv PDF](https://arxiv.org/abs/2111.09733)
-* Arxiv'22: MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing. [Arxiv PDF](https://arxiv.org/abs/2207.05621)
+* ICASSP'22: MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing. [Arxiv PDF](https://arxiv.org/abs/2207.05621)
